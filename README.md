@@ -1,6 +1,13 @@
 # ポストエフェクトで空気遠近法！
 いつものカメラでの映像に空気遠近法効果を追加します<br>
-<img src="https://github.com/Shottakon/AirialPerspectiveEffecter/blob/img/img/display.png">
+<p>
+こんなにのっぺりした画面でも…
+<img src="https://github.com/Shottakon/AirialPerspectiveEffecter/blob/img/img/before.png">
+</p>
+<p>
+これだけの遠近感！！！
+<img src="https://github.com/Shottakon/AirialPerspectiveEffecter/blob/img/img/after.png">
+</p>
 #使い方
 1.空気遠近法をしたいカメラを用意<br>
 2.カメラにAirialPerspectiveEffecter.csを追加します<br>
