@@ -13,6 +13,12 @@
 2.カメラにAirialPerspectiveEffecter.csを追加します<br>
 3.インスペクターで各種設定を行います<br>
 <img src="https://github.com/Shottakon/AirialPerspectiveEffecter/blob/img/img/settings.png">
+<table>
+<tr><td>FadeColor</td><td>遠近マスクのカラー。遠くに行くほど、この色が強くなる。</td></tr>
+<tr><td>DistanceAPE_MIN</td><td>遠近マスクの影響が最小になる距離。比較的小さい値を推奨。</td></tr>
+<tr><td>DistanceAPE_MAX</td><td>遠近マスクの影響が最大になる距離。比較的大きい値を推奨。</td></tr>
+<tr><td>AirialPerspectiveShader</td><td>空気遠近シェーダー。AirialPerspectiveシェーダーを登録してください。</td></tr>
+</table>
 #ライセンス
 <ul>
 <li>このスクリプトの使用・改造は商用・非商用問わず自由です。</li>
